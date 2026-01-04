@@ -4,7 +4,7 @@
 
 ### Frontend Developer | Vue.js Enthusiast | Building Cool Stuff on the Web 🚀
 
-[![Portfolio](https://img.shields.io/badge/🌐_Check_My_Work-black?style=for-the-badge)](https://gouravshandilya.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Check_My_Work-black?style=for-the-badge)](https://gouravshandilya.github.io/gourav-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gourav-kumar-19111b279/)
 [![Email](https://img.shields.io/badge/Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shandilya669@gmail.com)
 
@@ -180,7 +180,7 @@ I'm always excited to collaborate on interesting projects, contribute to open-so
 
 ### 📬 Reach Out!
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-black?style=for-the-badge)](https://gouravshandilya.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-black?style=for-the-badge)](https://gouravshandilya.github.io/gourav-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gourav-kumar-19111b279/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:shandilya669@gmail.com)
 
